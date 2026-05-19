@@ -1,0 +1,9 @@
+
+DATA CLEANING REPORT
+
+Total Rows After Cleaning: 3
+
+Missing values handled
+Duplicates removed
+City names standardized
+Date formats corrected
